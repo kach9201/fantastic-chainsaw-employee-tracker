@@ -46,4 +46,4 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 WALKTHROUGH GIF
-![] (https://github.com/kach9201/fantastic-chainsaw-employee-tracker/blob/main/assets/Untitled_%20Feb%2027%2C%202023%2011_41%20PM.gif)
+![](https://github.com/kach9201/fantastic-chainsaw-employee-tracker/blob/80559593c13acad445d5a6e13cfb686e57c93862/assets/Untitled_%20Feb%2027,%202023%2011_41%20PM.gif)
