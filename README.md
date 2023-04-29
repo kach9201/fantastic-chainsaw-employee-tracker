@@ -1,5 +1,11 @@
 # fantastic-chainsaw-employee-tracker
 
+Video Walkthrough
+
+https://user-images.githubusercontent.com/116523970/235272766-28f15cf7-6af8-49a5-8b44-6c5752145fd3.mp4
+
+
+
 User Story
 
 AS A business owner
